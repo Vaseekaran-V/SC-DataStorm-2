@@ -131,3 +131,5 @@ dmypy.json
 #Local Machine extensions
 .DS_Store
 
+#other files
+.vscode
