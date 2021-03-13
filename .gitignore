@@ -140,14 +140,6 @@ Day_1/Hyperparameter_Tuning_Pipeline_Clean_V.py
 Day_2/Preprocessed_HyperParameter_V.ipynb
 Day_1/Preprocessing_Pipeline_Clean_V.ipynb
 Day_1/Hyperparameter_Tuning_Pipeline_Clean_V-Copy1.ipynb
-Day_2/Dataframes_With_Encoded_Variables.ipynb
-Day_2/Feature_Selection_G.ipynb
-Day_2/Preparing_Submission_Template-Under_Over_Sampled.ipynb
-Day_2/Preparing_Submission_DownSampling_V.ipynb
-Day_2/Preprocessing_Oversampling_Clean_G_1.ipynb
-Day_2/Preprocessing_Structure_Clean_G.ipynb
-Day_2/Visualization_N.ipynb
-Data/Preprocessed-Datasets/train-data-encoded-1.csv
 Day_3/test_2.csv
 Day_3/test_3.csv
-
+Data/Preprocessed-Datasets/train-data-encoded-1.csv
